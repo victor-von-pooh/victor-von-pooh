@@ -1,16 +1,25 @@
-## Hi there 👋
+# Links
+<p align="left">
+  <a href="https://github.com/victor-von-pooh">
+    <img height="20" src="https://komarev.com/ghpvc/?username=victor-von-pooh" />
+  </a>
+  <a href="https://github.com/victor-von-pooh">
+    <img height="20" src="https://img.shields.io/github/followers/victor-von-pooh" />
+  </a>
+  <a href="https://qiita.com/Hiroki_Akita">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Hiroki_Akita/posts.svg" />
+  </a>
+  <a href="https://qiita.com/Hiroki_Akita">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Hiroki_Akita/contributions.svg" />
+  </a>
+</p>
 
-<!--
-**victor-von-pooh/victor-von-pooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-von-pooh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victor-von-pooh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victor-von-pooh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=victor-von-pooh&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victor-von-pooh&theme=gruvbox&utcOffset=9)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=victor-von-pooh&theme=gruvbox)
